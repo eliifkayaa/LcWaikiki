@@ -14,3 +14,5 @@ En az Web’de yapmak zorunlu.
 ● Sepetim’e gidilecek ,ürünün adı ,adeti ,bedeni kontrol edilecek.
 ● Ödeme yap butonuna tıklayıp,ödeme ekranına gidildiği ,doğru ekrana yönlendiklerini
 kontrol edecekler.
+
+NOT: Appium da ödevi tammalayamadım çünkü bilgisayarım Android Studionun çalışmasında sorun çıkardı.
