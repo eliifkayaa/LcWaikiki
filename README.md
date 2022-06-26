@@ -3,6 +3,7 @@ LcWaikiki Bitirme Projesi
 
 2.Uçtan uca ödeme ekranına kadar Selenium’da java dili ile chrome browser kullanarak
 test otomasyon ödevi yapılacak.Ödeme ekranı doldurulmayacak.
+
 Aşağıdaki senaryoyu web ve mobil olmak üzere 2 çeşit oluşturabilirlerse çok iyi olur.
 En az Web’de yapmak zorunlu.
 ● Bir yeni müşteri kaydı oluşturulacak.
